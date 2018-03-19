@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="361.4379"
+     inkscape:cx="365.47852"
      inkscape:cy="386.38922"
      inkscape:document-units="mm"
      inkscape:current-layer="g7577"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     inkscape:window-x="1280"
-     inkscape:window-y="27"
+     inkscape:window-width="1280"
+     inkscape:window-height="987"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata6864">
@@ -55,7 +55,7 @@
      transform="translate(0,-87)">
     <g
        id="g7523"
-       transform="matrix(0.29547754,0,0,0.29547754,0.45613938,-298.23261)">
+       transform="matrix(0.29432077,0,0,0.29432077,0.4550064,-296.22295)">
       <rect
          y="1738.2759"
          x="3.4448242e-08"
@@ -76,7 +76,7 @@
              y="1863.4539"
              style="font-family:'Archivo Narrow';-inkscape-font-specification:'Archivo Narrow';fill:#008000;fill-opacity:1" /></flowRegion><flowPara
            id="flowPara5551"
-           style="font-size:12.8293403px;line-height:1.25">Trénujte emailovou sebeobranu. Naučte se GnuPG za 30 minut na</flowPara></flowRoot>      <flowRoot
+           style="font-size:12.82933998px;line-height:1.25">Trénujte emailovou sebeobranu. Naučte se GnuPG za 30 minut na</flowPara></flowRoot>      <flowRoot
          transform="matrix(2.8533504,0,0,2.8533504,-33.222607,-3520.7187)"
          style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;line-height:0.01%;font-family:Dosis;-inkscape-font-specification:'Dosis Ultra-Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none"
          id="flowRoot6321"
@@ -94,17 +94,17 @@
        id="g7577"
        transform="matrix(0.29547754,0,0,0.29547754,0.45401864,-304.41755)">
       <rect
-         y="1948.8923"
-         x="0.51881385"
-         height="38.9907"
-         width="498.97672"
+         y="1948.1459"
+         x="0.51297647"
+         height="38.838055"
+         width="497.02325"
          id="rect7273"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#008000;stroke-width:2.78827548;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#008000;stroke-width:2.77735949;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
       <flowRoot
          xml:space="preserve"
          id="flowRoot7103"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0.01%;font-family:Dosis;-inkscape-font-specification:'Dosis Bold';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#008000;fill-opacity:1;stroke:none"
-         transform="matrix(1.3644425,0,0,1.3644425,-6.5735853,-624.08883)"><flowRegion
+         transform="matrix(1.3591008,0,0,1.3591008,-6.5516565,-614.76224)"><flowRegion
            id="flowRegion7105"
            style="text-align:end;text-anchor:end"><rect
              id="rect7107"
@@ -114,16 +114,16 @@
              y="1891.0315"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.32900047px;line-height:125%;font-family:Dosis;-inkscape-font-specification:'Dosis Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#008000;fill-opacity:1" /></flowRegion><flowPara
            id="flowPara7113"
-           style="font-weight:normal;font-size:7.00021686px;line-height:1.25;-inkscape-font-specification:Dosis;text-align:end;text-anchor:end;fill:#008000;fill-opacity:1">Design informačního letáku a příručky: <flowSpan
+           style="font-weight:normal;font-size:7.00021696px;line-height:1.25;-inkscape-font-specification:Dosis;text-align:end;text-anchor:end;fill:#008000;fill-opacity:1">Design informačního letáku a příručky: <flowSpan
    id="flowSpan7121"
-   style="font-weight:bold;-inkscape-font-specification:'Dosis Bold';text-align:end;text-anchor:end;fill:#008000;fill-opacity:1;font-size:7.00021686px">Journalism++ </flowSpan></flowPara><flowPara
-           style="font-weight:normal;font-size:7.00021686px;line-height:1.25;-inkscape-font-specification:Dosis;text-align:end;text-anchor:end;fill:#008000;fill-opacity:1"
+   style="font-weight:bold;font-size:7.00021696px;-inkscape-font-specification:'Dosis Bold';text-align:end;text-anchor:end;fill:#008000;fill-opacity:1">Journalism++ </flowSpan></flowPara><flowPara
+           style="font-weight:normal;font-size:7.00021696px;line-height:1.25;-inkscape-font-specification:Dosis;text-align:end;text-anchor:end;fill:#008000;fill-opacity:1"
            id="flowPara12199">Český překlad:<flowSpan
-   style="font-weight:bold;-inkscape-font-specification:'Dosis Bold';text-align:end;text-anchor:end;fill:#008000;fill-opacity:1;font-size:7.00021686px"
-   id="flowSpan12201"> tomichec@gmail.com 0xC6CC4AD6</flowSpan></flowPara></flowRoot>    </g>
+   style="font-weight:bold;font-size:7.00021696px;-inkscape-font-specification:'Dosis Bold';text-align:end;text-anchor:end;fill:#008000;fill-opacity:1"
+   id="flowSpan12201"> tomichec@gmail.com </flowSpan>0xC6CC4AD6</flowPara></flowRoot>    </g>
     <g
        id="g7534"
-       transform="matrix(0.26458333,0,0,0.26458333,-30.57439,-284.84463)">
+       transform="matrix(0.26354751,0,0,0.26354751,-30.454041,-282.88739)">
       <rect
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#008000;fill-opacity:0.76847289;stroke:#008000;stroke-width:2.18758106;marker:none;enable-background:accumulate"
          id="rect6329"

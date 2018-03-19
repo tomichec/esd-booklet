@@ -167,8 +167,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.77046355"
-     inkscape:cx="366.41674"
-     inkscape:cy="393.98928"
+     inkscape:cx="369.01258"
+     inkscape:cy="318.19526"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -198,10 +198,10 @@
        inkscape:export-ydpi="134.53"
        inkscape:export-xdpi="134.53"
        inkscape:export-filename="/home/rlafuente/Projects/GPG/infog/precolor.png"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff9b12;fill-opacity:1;stroke:none;stroke-width:0.56543362;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff9b12;fill-opacity:1;stroke:none;stroke-width:0.5641219;marker:none;enable-background:accumulate"
        id="rect5270"
-       width="148.0302"
-       height="75.613808"
+       width="147.68678"
+       height="75.438393"
        x="0.36778945"
        y="87.317574" />
     <path
@@ -219,53 +219,53 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 80.961959,146.97272 -5.585527,-4.454 1.82758,6.88673 -4.302383,-5.70314 0.0575,7.12487 -2.748905,-6.59391 -1.716186,6.91533 -1.022701,-7.07039 -3.382042,6.27128 0.767761,-7.10259 -4.835391,5.23317 2.509983,-6.68851 -5.984916,3.86624 4.094493,-5.85417 -6.758385,2.2564 5.421731,-4.652 -7.107201,0.50476 6.408302,-3.15751 -7.009445,-1.27858 6.992215,-1.46464 -6.47126,-2.98159 7.136782,0.32027 -5.526461,-4.49726 6.832919,2.08506 -4.234416,-5.73034 6.099718,3.71882 -2.676305,-6.60337 4.983249,5.11893 -0.950033,-7.06148 3.553665,6.1974 0.835933,-7.0759 1.900791,6.88645 2.569375,-6.6457 0.128483,7.14281 4.141373,-5.79795 -1.651898,6.95036 5.453153,-4.58587 -3.328484,6.32119 6.422292,-3.08565 -4.795929,5.29483 6.987895,-1.39155 -5.962029,3.93579 7.114422,0.38999 -6.753512,2.32944 6.793925,2.14702 -7.120647,0.57673 6.046539,3.76914 -7.040366,-1.21222 4.919228,5.15444 -6.517712,-2.925 z"
-       inkscape:transform-center-x="0.26478286"
-       inkscape:transform-center-y="0.046112046"
-       transform="matrix(1.1617317,0,0,1.205222,-8.1197952,-27.520543)" />
+       inkscape:transform-center-x="0.26416556"
+       inkscape:transform-center-y="0.046009476"
+       transform="matrix(1.1590367,0,0,1.2024261,-8.1001053,-27.254136)" />
     <rect
        inkscape:export-ydpi="134.53"
        inkscape:export-xdpi="134.53"
        inkscape:export-filename="/home/rlafuente/Projects/GPG/infog/precolor.png"
-       y="162.93138"
+       y="162.75597"
        x="0.36778945"
-       height="67.359543"
-       width="148.0302"
+       height="67.203278"
+       width="147.68678"
        id="rect5276"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#008b8b;fill-opacity:1;stroke:none;stroke-width:0.55865425;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#008b8b;fill-opacity:1;stroke:none;stroke-width:0.55735826;marker:none;enable-background:accumulate" />
     <rect
        inkscape:export-ydpi="134.53"
        inkscape:export-xdpi="134.53"
        inkscape:export-filename="/home/rlafuente/Projects/GPG/infog/precolor.png"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d76b42;fill-opacity:1;stroke:none;stroke-width:0.55569458;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d76b42;fill-opacity:1;stroke:none;stroke-width:0.55440545;marker:none;enable-background:accumulate"
        id="rect5278"
-       width="148.0302"
-       height="66.647697"
+       width="147.68678"
+       height="66.493088"
        x="0.36778945"
-       y="230.29092" />
+       y="229.95924" />
     <rect
        inkscape:export-ydpi="134.53"
        inkscape:export-xdpi="134.53"
        inkscape:export-filename="/home/rlafuente/Projects/GPG/infog/precolor.png"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.51960695;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.51840156;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect3739"
-       width="2.9828928"
-       height="24.92717"
-       x="14.989397"
-       y="263.68768"
-       rx="1.1995416"
-       ry="1.1944176" />
+       width="2.9759729"
+       height="24.869343"
+       x="14.955477"
+       y="263.27853"
+       rx="1.1967589"
+       ry="1.1916467" />
     <rect
        inkscape:export-ydpi="134.53"
        inkscape:export-xdpi="134.53"
        inkscape:export-filename="/home/rlafuente/Projects/GPG/infog/precolor.png"
-       ry="1.1944176"
-       rx="1.1995416"
-       y="199.26021"
-       x="14.989397"
-       height="24.92717"
-       width="2.9828928"
+       ry="1.1916467"
+       rx="1.1967589"
+       y="199.00052"
+       x="14.955477"
+       height="24.869343"
+       width="2.9759729"
        id="rect3733"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#ffffff;stroke-width:0.51960695;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#ffffff;stroke-width:0.51840156;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <path
        inkscape:export-ydpi="134.53"
        inkscape:export-xdpi="134.53"
@@ -284,29 +284,29 @@
        id="path3731"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.51695961;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        sodipodi:type="star"
-       transform="matrix(1.0072746,0,0,1.0029719,-0.5411031,7.3749879)" />
+       transform="matrix(1.0049379,0,0,1.0006452,-0.5389946,7.5604428)" />
     <ellipse
-       cy="179.86411"
-       cx="16.480856"
+       cy="179.64941"
+       cx="16.443476"
        inkscape:export-ydpi="134.53"
        inkscape:export-xdpi="134.53"
        inkscape:export-filename="/home/rlafuente/Projects/GPG/infog/precolor.png"
        id="path3735"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#82ada2;fill-opacity:1;stroke:#ffffff;stroke-width:0.51960695;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       rx="1.3299264"
-       ry="1.3242455" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#82ada2;fill-opacity:1;stroke:#ffffff;stroke-width:0.51840156;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       rx="1.3268411"
+       ry="1.3211734" />
     <ellipse
-       ry="12.089651"
-       rx="12.145184"
-       cy="252.38185"
-       cx="16.480856"
+       ry="12.061604"
+       rx="12.117008"
+       cy="251.99893"
+       cx="16.443476"
        inkscape:export-ydpi="134.53"
        inkscape:export-xdpi="134.53"
        inkscape:export-filename="/home/rlafuente/Projects/GPG/infog/precolor.png"
        id="path3743"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.51960695;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.51840156;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <flowRoot
-       transform="matrix(0.25151434,0,0,0.25043997,1.0081838,-19.518959)"
+       transform="matrix(0.25093086,0,0,0.24985899,1.0066982,-19.271114)"
        inkscape:export-ydpi="134.53"
        inkscape:export-xdpi="134.53"
        inkscape:export-filename="/home/rlafuente/Projects/GPG/infog/precolor.png"
@@ -322,7 +322,7 @@
            id="rect3367" /></flowRegion><flowPara
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Dosis;-inkscape-font-specification:'Dosis, Normal';text-align:start;letter-spacing:-1px;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#186854;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.98508662;marker:none;enable-background:accumulate"
          id="flowPara3370">VEŘEJNÝ</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.22549119,0,0,0.22452798,1.7627693,22.713712)"
+       transform="matrix(0.22496808,0,0,0.22400711,1.7595332,22.863583)"
        inkscape:export-ydpi="134.53"
        inkscape:export-xdpi="134.53"
        inkscape:export-filename="/home/rlafuente/Projects/GPG/infog/precolor.png"
@@ -341,27 +341,27 @@
        inkscape:export-ydpi="134.53"
        inkscape:export-xdpi="134.53"
        inkscape:export-filename="/home/rlafuente/Projects/GPG/infog/precolor.png"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Archivo Narrow';-inkscape-font-specification:'Archivo Narrow Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#145826;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.8572343;marker:none;enable-background:accumulate;"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Archivo Narrow';-inkscape-font-specification:'Archivo Narrow Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#145826;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.8572343;marker:none;enable-background:accumulate"
        id="flowRoot3383"
        xml:space="preserve"
-       transform="matrix(0.29502744,0,0,0.2937672,-4.0943953,-63.251287)"><flowRegion
+       transform="matrix(0.29434302,0,0,0.2930857,-4.0840437,-62.90199)"><flowRegion
          id="flowRegion3385"
-         style="fill:#145826;fill-opacity:1;"><rect
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.76614761px;font-family:'Archivo Narrow';-inkscape-font-specification:'Archivo Narrow Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#145826;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.8572343;marker:none;enable-background:accumulate;"
+         style="fill:#145826;fill-opacity:1"><rect
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.76614761px;font-family:'Archivo Narrow';-inkscape-font-specification:'Archivo Narrow Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#145826;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.8572343;marker:none;enable-background:accumulate"
            y="782.04779"
            x="119.50117"
            height="67.958084"
            width="280.89337"
            id="rect3387" /></flowRegion><flowPara
          id="flowPara3389"
-         style="font-size:28.75938565px;fill:#145826;fill-opacity:1;">VEŘEJNÝ KLÍČ</flowPara></flowRoot>    <flowRoot
+         style="font-size:28.75938606px;fill:#145826;fill-opacity:1">VEŘEJNÝ KLÍČ</flowPara></flowRoot>    <flowRoot
        inkscape:export-ydpi="134.53"
        inkscape:export-xdpi="134.53"
        inkscape:export-filename="/home/rlafuente/Projects/GPG/infog/precolor.png"
        xml:space="preserve"
        id="flowRoot3391"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0.01%;font-family:'Archivo Narrow';-inkscape-font-specification:'Archivo Narrow Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#801900;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.8572343;marker:none;enable-background:accumulate"
-       transform="matrix(0.29502744,0,0,0.2937672,-4.0943953,-53.72629)"><flowRegion
+       transform="matrix(0.29434302,0,0,0.2930857,-4.0840437,-53.399089)"><flowRegion
          id="flowRegion3393"><rect
            id="rect3395"
            width="321.68625"
@@ -377,7 +377,7 @@
        xml:space="preserve"
        id="flowRoot5280"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0.01%;font-family:'Archivo Narrow';-inkscape-font-specification:'Archivo Narrow Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4b4f2f;fill-opacity:1;stroke:none"
-       transform="matrix(0.60744217,0,0,0.60484743,-61.232467,-455.62039)"><flowRegion
+       transform="matrix(0.60603299,0,0,0.60344427,-61.089564,-454.36085)"><flowRegion
          id="flowRegion5282"><rect
            id="rect5284"
            width="218.0009"
@@ -386,11 +386,11 @@
            y="901.86658"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13px;line-height:125%;font-family:'Archivo Narrow';-inkscape-font-specification:'Archivo Narrow Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4b4f2f;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara5286"
-         style="font-size:13.96809155px;line-height:1.25">Získejte své soukromí zpět s pomocí GnuPG!</flowPara></flowRoot>    <flowRoot
+         style="font-size:13.96809196px;line-height:1.25">Získejte své soukromí zpět s pomocí GnuPG!</flowPara></flowRoot>    <flowRoot
        inkscape:export-ydpi="134.53"
        inkscape:export-xdpi="134.53"
        inkscape:export-filename="/home/rlafuente/Projects/GPG/infog/precolor.png"
-       transform="matrix(0.38678277,0,0,0.38513059,21.99821,-108.75576)"
+       transform="matrix(0.38588549,0,0,0.38423714,21.948031,-108.3009)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Archivo Narrow';-inkscape-font-specification:'Archivo Narrow';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
        id="flowRoot5288"
        xml:space="preserve"><flowRegion
@@ -402,16 +402,16 @@
            width="179.21089"
            id="rect5292" /></flowRegion><flowPara
          id="flowPara5300"
-         style="font-size:10.96844089px;line-height:1.25">Váš veřejný klíč není podobný fyzickému klíči, protože jej sdílíte. Je nahrán v online adresáři, kde si jej lidé mohou vyhledat a stáhnout. </flowPara><flowPara
+         style="font-size:10.96844101px;line-height:1.25">Váš veřejný klíč není podobný fyzickému klíči, protože jej sdílíte. Je nahrán v online adresáři, kde si jej lidé mohou vyhledat a stáhnout. </flowPara><flowPara
          id="flowPara7280"
-         style="font-size:10.96844089px;line-height:1.25">Pomocí vašeho veřejného klíče a GnuPG mohou lidé šifrovat emaily, které vám posílají.</flowPara></flowRoot>    <flowRoot
+         style="font-size:10.96844101px;line-height:1.25">Pomocí vašeho veřejného klíče a GnuPG mohou lidé šifrovat emaily, které vám posílají.</flowPara></flowRoot>    <flowRoot
        inkscape:export-ydpi="134.53"
        inkscape:export-xdpi="134.53"
        inkscape:export-filename="/home/rlafuente/Projects/GPG/infog/precolor.png"
        xml:space="preserve"
        id="flowRoot5302"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Archivo Narrow';-inkscape-font-specification:'Archivo Narrow';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="matrix(0.38678277,0,0,0.38513059,21.99821,-39.142304)"><flowRegion
+       transform="matrix(0.38588549,0,0,0.38423714,21.948031,-38.848936)"><flowRegion
          id="flowRegion5304"><rect
            id="rect5306"
            width="181.87074"
@@ -420,21 +420,21 @@
            y="747.11188"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.44159412px;font-family:'Archivo Narrow';-inkscape-font-specification:'Archivo Narrow';fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara5312"
-         style="font-size:10.96844089px;line-height:1.25">Váš soukromý klíč je fyzickému klíči podobnější, protože si jej necháváte pro sebe (ve svém počítači). </flowPara><flowPara
+         style="font-size:10.96844101px;line-height:1.25">Váš soukromý klíč je fyzickému klíči podobnější, protože si jej necháváte pro sebe (ve svém počítači). </flowPara><flowPara
          id="flowPara5319"
-         style="font-size:10.96844089px;line-height:1.25" /><flowPara
+         style="font-size:10.96844101px;line-height:1.25" /><flowPara
          id="flowPara5321"
-         style="font-size:10.96844089px;line-height:1.25">Pomocí GnuPG a svého soukromého klíče rozšifrujete zašifrované emaily, které vám pošlou ostatní. </flowPara></flowRoot>    <path
+         style="font-size:10.96844101px;line-height:1.25">Pomocí GnuPG a svého soukromého klíče rozšifrujete zašifrované emaily, které vám pošlou ostatní. </flowPara></flowRoot>    <path
        inkscape:export-ydpi="134.53"
        inkscape:export-xdpi="134.53"
        inkscape:export-filename="/home/rlafuente/Projects/GPG/infog/precolor.png"
        sodipodi:nodetypes="ccccsssccssssccssssccc"
        inkscape:connector-curvature="0"
        id="rect7236"
-       d="m 17.972293,215.3839 v 7.00851 h 5.209079 v -1.29442 h -1.631863 c -0.1662,0 -0.304256,-0.35424 -0.304256,-0.5111 0,-0.15688 0.138056,-0.53026 0.304256,-0.53026 h 0.73756 v -0.71606 0 c 0,0 -0.304247,-0.12827 -0.304247,-0.29376 v -0.0826 c 0,-0.16549 0.138057,-0.30296 0.304247,-0.30296 h 0.894303 v -0.87211 h -1.180107 c -0.1662,0 -0.304245,-0.13746 -0.304245,-0.30295 v -0.95474 c 0,-0.16549 0.138045,-0.30296 0.304245,-0.30296 h 1.180107 v -0.84457 z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#ffffff;stroke-width:0.51960695;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+       d="m 17.931453,215.08681 v 6.99225 h 5.196995 v -1.29142 h -1.628077 c -0.165815,0 -0.303551,-0.35342 -0.303551,-0.50991 0,-0.15652 0.137736,-0.52903 0.303551,-0.52903 h 0.735849 v -0.7144 0 c 0,0 -0.303542,-0.12798 -0.303542,-0.29308 v -0.0824 c 0,-0.16511 0.137737,-0.30226 0.303542,-0.30226 h 0.892228 v -0.87008 h -1.177369 c -0.165815,0 -0.30354,-0.13715 -0.30354,-0.30225 v -0.95253 c 0,-0.1651 0.137725,-0.30225 0.30354,-0.30225 h 1.177369 v -0.84261 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#ffffff;stroke-width:0.51840156;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <g
-       transform="matrix(0.29502744,0,0,0.2937672,-3.4305863,-59.017951)"
+       transform="matrix(0.29434302,0,0,0.2930857,-3.4217746,-58.678474)"
        id="g14128">
       <circle
          r="25.102291"
@@ -495,14 +495,14 @@
        inkscape:export-ydpi="134.53"
        inkscape:export-xdpi="134.53"
        inkscape:export-filename="/home/rlafuente/Projects/GPG/infog/precolor.png"
-       style="fill:none;stroke:#ffffff;stroke-width:0.88318998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2SendC)"
-       d="m 124.94468,204.83522 10e-6,3.34423"
+       style="fill:none;stroke:#ffffff;stroke-width:0.88114113;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2SendC)"
+       d="m 124.65568,204.5626 1e-5,3.33647"
        id="path9307"
        inkscape:path-effect="#path-effect9309"
-       inkscape:original-d="m 124.94468,204.83522 10e-6,3.34423"
+       inkscape:original-d="m 124.65568,204.5626 1e-5,3.33647"
        inkscape:connector-curvature="0" />
     <g
-       transform="matrix(0.29502744,0,0,0.2937672,-0.26058109,-58.238983)"
+       transform="matrix(0.29434302,0,0,0.2930857,-0.25912336,-57.901313)"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#186854;stroke-width:1.76498926;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        inkscape:export-ydpi="134.53"
        inkscape:export-xdpi="134.53"
@@ -550,7 +550,7 @@
        inkscape:export-xdpi="134.53"
        inkscape:export-filename="/home/rlafuente/Projects/GPG/infog/precolor.png"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.09587467;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       transform="matrix(-0.47516406,0,0,0.47313435,272.59385,45.277671)"
+       transform="matrix(-0.47406175,0,0,0.47203675,271.96233,45.375197)"
        id="g3148-6">
       <path
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.09587467;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -572,7 +572,7 @@
        inkscape:export-ydpi="134.53"
        inkscape:export-xdpi="134.53"
        inkscape:export-filename="/home/rlafuente/Projects/GPG/infog/precolor.png"
-       transform="matrix(0.41450217,-0.11059109,0.11106552,0.41273158,-7.2458125,164.22945)"
+       transform="matrix(0.41354059,-0.11033454,0.11080786,0.4117741,-7.2281501,164.05103)"
        id="g12476"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#801900;stroke-width:1.21344876;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate">
       <rect
@@ -609,7 +609,7 @@
        inkscape:export-xdpi="134.53"
        inkscape:export-filename="/home/rlafuente/Projects/GPG/infog/precolor.png"
        id="g12514"
-       transform="matrix(0.12771599,0.47220846,0.47423419,-0.12717044,-78.854754,186.33356)"
+       transform="matrix(0.12741971,0.47111301,0.47313404,-0.12687542,-78.67097,186.10386)"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.06024766;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate">
       <path
          inkscape:connector-curvature="0"
@@ -631,27 +631,27 @@
        inkscape:export-ydpi="134.53"
        inkscape:export-xdpi="134.53"
        inkscape:export-filename="/home/rlafuente/Projects/GPG/infog/precolor.png"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#ffffff;stroke-width:0.51960695;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       d="m 17.972293,280.14979 v 7.00852 h 5.209079 v -1.29444 h -1.631863 c -0.1662,0 -0.304256,-0.35425 -0.304256,-0.51109 0,-0.15687 0.138056,-0.53025 0.304256,-0.53025 h 0.73756 v -0.71605 0 c 0,0 -0.304247,-0.1283 -0.304247,-0.29378 v -0.0826 c 0,-0.16548 0.138057,-0.30293 0.304247,-0.30293 h 0.894303 v -0.87213 h -1.180107 c -0.1662,0 -0.304245,-0.13746 -0.304245,-0.30294 v -0.95474 c 0,-0.16551 0.138045,-0.30297 0.304245,-0.30297 h 1.180107 v -0.84457 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#ffffff;stroke-width:0.51840156;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 17.931453,279.70245 v 6.99226 h 5.196995 v -1.29144 h -1.628077 c -0.165815,0 -0.303551,-0.35343 -0.303551,-0.5099 0,-0.15651 0.137736,-0.52902 0.303551,-0.52902 h 0.735849 v -0.71439 0 c 0,0 -0.303542,-0.128 -0.303542,-0.2931 v -0.0824 c 0,-0.16509 0.137737,-0.30223 0.303542,-0.30223 h 0.892228 v -0.8701 h -1.177369 c -0.165815,0 -0.30354,-0.13714 -0.30354,-0.30224 v -0.95252 c 0,-0.16513 0.137725,-0.30227 0.30354,-0.30227 h 1.177369 v -0.84261 z"
        id="path12536"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccsssccssssccssssccc" />
     <ellipse
-       cy="244.29164"
-       cx="16.480856"
+       cy="243.92749"
+       cx="16.443476"
        inkscape:export-ydpi="134.53"
        inkscape:export-xdpi="134.53"
        inkscape:export-filename="/home/rlafuente/Projects/GPG/infog/precolor.png"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ba8375;fill-opacity:1;stroke:#ffffff;stroke-width:0.51960695;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ba8375;fill-opacity:1;stroke:#ffffff;stroke-width:0.51840156;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="path3741"
-       rx="1.3299264"
-       ry="1.3242455" />
+       rx="1.3268411"
+       ry="1.3211734" />
     <g
        inkscape:export-ydpi="134.53"
        inkscape:export-xdpi="134.53"
        inkscape:export-filename="/home/rlafuente/Projects/GPG/infog/precolor.png"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#801900;stroke-width:3.24954081;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       transform="matrix(0.16024427,0,0,0.15955977,65.905196,110.74748)"
+       transform="matrix(0.15987253,0,0,0.15918962,65.753159,110.69313)"
        id="g12618">
       <path
          sodipodi:nodetypes="ccccccc"
@@ -694,7 +694,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(0.29502744,0,0,0.2937672,2.5437165,-59.017951)"
+       transform="matrix(0.29434302,0,0,0.2930857,2.5386687,-58.678474)"
        id="g14094">
       <circle
          r="25.102291"
@@ -740,7 +740,7 @@
          style="fill:#186853;fill-opacity:0.78039216;stroke:#186853;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.78039216;marker-end:url(#Arrow2SendCcQ4)" />
     </g>
     <g
-       transform="matrix(0.29502744,0,0,0.2937672,0.62604004,-59.017951)"
+       transform="matrix(0.29434302,0,0,0.2930857,0.62544094,-58.678474)"
        id="g14245">
       <g
          id="g7174"
@@ -931,7 +931,7 @@
     </g>
     <g
        id="g14237"
-       transform="matrix(0.47516406,0,0,0.47313435,-23.155539,45.277671)"
+       transform="matrix(0.47406175,0,0,0.47203675,-23.100968,45.375197)"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.09587467;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        inkscape:export-filename="/home/rlafuente/Projects/GPG/infog/precolor.png"
        inkscape:export-xdpi="134.53"
@@ -954,7 +954,7 @@
     </g>
     <g
        style="stroke:#801900;stroke-opacity:1"
-       transform="matrix(0.29502744,0,0,0.2937672,0.62604004,11.710924)"
+       transform="matrix(0.29434302,0,0,0.2930857,0.62544094,11.88632)"
        id="g14277">
       <g
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#801900;stroke-width:1.76498926;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -1146,7 +1146,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.29502744,0,0,0.2937672,0.62604004,-45.788785)"
+       transform="matrix(0.29434302,0,0,0.2930857,0.62544094,-45.479998)"
        id="g17540">
       <circle
          r="25.102291"
@@ -1213,7 +1213,7 @@
     </g>
     <g
        id="g17530"
-       transform="matrix(0.29502744,0,0,0.2937672,4.1725134,-45.581062)">
+       transform="matrix(0.29434302,0,0,0.2930857,4.163687,-45.272757)">
       <circle
          r="25.102291"
          cy="795.92078"
@@ -1259,18 +1259,18 @@
     </g>
     <path
        inkscape:connector-curvature="0"
-       inkscape:original-d="m 124.94468,275.91574 10e-6,3.34421"
+       inkscape:original-d="m 124.65568,275.47822 1e-5,3.33645"
        inkscape:path-effect="#path-effect17552"
        id="path17550"
-       d="m 124.94468,275.91574 10e-6,3.34421"
-       style="fill:none;stroke:#ffffff;stroke-width:0.88318998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2SendC)"
+       d="m 124.65568,275.47822 1e-5,3.33645"
+       style="fill:none;stroke:#ffffff;stroke-width:0.88114113;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2SendC)"
        inkscape:export-filename="/home/rlafuente/Projects/GPG/infog/precolor.png"
        inkscape:export-xdpi="134.53"
        inkscape:export-ydpi="134.53"
        sodipodi:nodetypes="cc" />
     <g
        id="g6970"
-       transform="matrix(0.34026743,0,0,0.35300558,-152.19737,-64.158286)">
+       transform="matrix(0.33947806,0,0,0.35218666,-151.84344,-63.806885)">
       <rect
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#4b4f2f;stroke-width:1.76498926;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
          id="rect3529"
@@ -1557,7 +1557,7 @@
        xml:space="preserve"
        id="flowRoot5252"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Archivo Narrow';-inkscape-font-specification:'Archivo Narrow';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4b4f2f;fill-opacity:1;stroke:none"
-       transform="matrix(0.38678277,0,0,0.38513059,-2.6508553,-174.57835)"><flowRegion
+       transform="matrix(0.38588549,0,0,0.38423714,-2.6438525,-173.97079)"><flowRegion
          id="flowRegion5254"><rect
            id="rect5256"
            width="94.908112"
@@ -1573,25 +1573,25 @@
          style="font-size:10.96844101px;line-height:1.10000002">Vaše zprávy zašifruje tak,</flowPara><flowPara
          style="font-size:10.96844101px;line-height:1.10000002"
          id="flowPara12105">že si je budou moci přečíst jen ti, kterým jsou určeny. </flowPara></flowRoot>    <path
-       style="fill:none;stroke:#145826;stroke-width:0.29439661px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 31.17471,176.36013 H 97.133079"
+       style="fill:none;stroke:#145826;stroke-width:0.29371366px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 31.103243,176.15356 H 96.908598"
        id="path7282"
        inkscape:path-effect="#path-effect7284"
-       inkscape:original-d="M 31.17471,176.36013 H 97.133079"
+       inkscape:original-d="M 31.103243,176.15356 H 96.908598"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        inkscape:connector-curvature="0"
-       inkscape:original-d="m 31.17471,244.20157 h 72.91425"
+       inkscape:original-d="M 31.103243,243.83762 H 103.84834"
        inkscape:path-effect="#path-effect7288"
        id="path7286"
-       d="m 31.17471,244.20157 h 72.91425"
-       style="fill:none;stroke:#801900;stroke-width:0.31704822px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       d="M 31.103243,243.83762 H 103.84834"
+       style="fill:none;stroke:#801900;stroke-width:0.31631273px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <flowRoot
        inkscape:export-ydpi="134.53"
        inkscape:export-xdpi="134.53"
        inkscape:export-filename="/home/rlafuente/Projects/GPG/infog/precolor.png"
-       transform="matrix(0.29502744,0,0,0.2937672,93.015527,-112.47923)"
+       transform="matrix(0.29434302,0,0,0.2930857,92.800598,-112.01573)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Archivo Narrow';-inkscape-font-specification:'Archivo Narrow';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#4b4f2f;fill-opacity:1;stroke:none"
        id="flowRoot5260"
        xml:space="preserve"><flowRegion
@@ -1603,9 +1603,9 @@
            width="150.77415"
            id="rect5264" /></flowRegion><flowPara
          id="flowPara5266"
-         style="font-size:14.37969283px;line-height:1.25">GnuPG lze používat téměř na jakémkoli počítači nebo chytrém telefonu. Je pod svobodnou licencí a zdarma. Každému uživateli vytvoří digitální <flowSpan
+         style="font-size:14.37969303px;line-height:1.25">GnuPG lze používat téměř na jakémkoli počítači nebo chytrém telefonu. Je pod svobodnou licencí a zdarma. Každému uživateli vytvoří digitální <flowSpan
    id="flowSpan5272"
-   style="font-weight:bold;font-size:14.37969283px;fill:#4b4f2f;fill-opacity:1">veřejný klíč</flowSpan> a <flowSpan
+   style="font-weight:bold;font-size:14.37969303px;fill:#4b4f2f;fill-opacity:1">veřejný klíč</flowSpan> a <flowSpan
    id="flowSpan5274"
-   style="font-weight:bold;font-size:14.37969283px;fill:#4b4f2f;fill-opacity:1">soukromý klíč</flowSpan>. </flowPara></flowRoot>  </g>
+   style="font-weight:bold;font-size:14.37969303px;fill:#4b4f2f;fill-opacity:1">soukromý klíč</flowSpan>. </flowPara></flowRoot>  </g>
 </svg>
