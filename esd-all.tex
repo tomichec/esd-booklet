@@ -5,14 +5,9 @@
 \begin{document}
       \setlength\voffset{+0.0in}                  % adj. vert. offset as needed
       \setlength\hoffset{+0.0in}                  % adj. horiz. offset as needed
-      \includepdfmerge[nup=2x1,
+      \includepdf[nup=2x1,
                        noautoscale=true,          % set "false" if larger inputs
-                       frame=false               % set "true" for frames
-                                   ] % adjust as needed
-                      {leaflet-4.pdf,leaflet-1.pdf}  % modify for file names
-      \includepdfmerge[nup=2x1,
-                       noautoscale=true,          % set "false" if larger inputs
-                       frame=false               % set "true" for frames
-                                   ] % adjust as needed
-                       {leaflet-2.pdf,leaflet-3.pdf}  % modify for file names                      
+                       frame=false,               % set "true" for frames
+                       pages={4,1,2,3}            ] % adjust as needed
+                      {esd.pdf}  % modify for file names
 \end{document}

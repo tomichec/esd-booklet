@@ -1,0 +1,24 @@
+\documentclass[a4paper,landscape]{article}
+\usepackage{pdfpages}
+\usepackage[cam,cross]{crop}
+\usepackage{pgfpages}
+
+\pgfpagesuselayout{resize to}[a4paper,border shrink=5mm, landscape]
+
+
+\begin{document}
+\includepdf[
+  nup=2x1,
+  noautoscale=true,          % set "false" if larger inputs
+  frame=true,               % set "true" for frames
+  %% trim=5mm 5mm 5mm 5mm, 
+  %% clip,
+  %% fitpaper=true,
+  %% turn
+  %% offset=5mm 5mm,
+  booklet,
+  pages=-
+]{esd.pdf}  % modify for file names
+
+
+\end{document}
