@@ -26,16 +26,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="365.47852"
-     inkscape:cy="386.38922"
+     inkscape:cx="287.15591"
+     inkscape:cy="250.15659"
      inkscape:document-units="mm"
-     inkscape:current-layer="g7577"
+     inkscape:current-layer="g7534"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="987"
-     inkscape:window-x="0"
-     inkscape:window-y="20"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="824"
+     inkscape:window-height="781"
+     inkscape:window-x="1453"
+     inkscape:window-y="90"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata6864">
     <rdf:RDF>
@@ -55,7 +55,7 @@
      transform="translate(0,-87)">
     <g
        id="g7523"
-       transform="matrix(0.29432077,0,0,0.29432077,0.4550064,-296.22295)">
+       transform="matrix(0.29432077,0,0,0.29432077,0.4550064,-314.74378)">
       <rect
          y="1738.2759"
          x="3.4448242e-08"
@@ -94,7 +94,7 @@
        id="g7577"
        transform="matrix(0.29547754,0,0,0.29547754,0.45401864,-304.41755)">
       <rect
-         y="1948.1459"
+         y="1885.4651"
          x="0.51297647"
          height="38.838055"
          width="497.02325"
@@ -104,7 +104,7 @@
          xml:space="preserve"
          id="flowRoot7103"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0.01%;font-family:Dosis;-inkscape-font-specification:'Dosis Bold';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#008000;fill-opacity:1;stroke:none"
-         transform="matrix(1.3591008,0,0,1.3591008,-6.5516565,-614.76224)"><flowRegion
+         transform="matrix(1.3591008,0,0,1.3591008,-6.5516565,-677.44323)"><flowRegion
            id="flowRegion7105"
            style="text-align:end;text-anchor:end"><rect
              id="rect7107"
@@ -123,7 +123,7 @@
    id="flowSpan12201"> tomichec@gmail.com </flowSpan>0xC6CC4AD6</flowPara></flowRoot>    </g>
     <g
        id="g7534"
-       transform="matrix(0.26354751,0,0,0.26354751,-30.454041,-282.88739)">
+       transform="matrix(0.26354751,0,0,0.26354751,-30.454041,-301.40822)">
       <rect
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#008000;fill-opacity:0.76847289;stroke:#008000;stroke-width:2.18758106;marker:none;enable-background:accumulate"
          id="rect6329"
@@ -146,7 +146,7 @@
            style="font-weight:normal;font-size:10px;line-height:1.25;-inkscape-font-specification:Dosis"
            id="flowPara16302">Copyright 2018 Free Software Foundation.  </flowPara><flowPara
            style="font-weight:bold;font-size:10px;line-height:1.25;-inkscape-font-specification:'Dosis Bold'"
-           id="flowPara7101">Úpravy dovoleny! </flowPara><flowPara
+           id="flowPara7101">Úpravy vítány! </flowPara><flowPara
            style="font-weight:bold;font-size:10px;line-height:1.25;-inkscape-font-specification:'Dosis Bold'"
            id="flowPara6963">Zdrojový kód získáte na výše uvedené adrese.</flowPara></flowRoot>      <g
          style="fill:#ffffff"

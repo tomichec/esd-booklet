@@ -400,10 +400,10 @@
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:pagecheckerboard="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="987"
-     inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="1280"
+     inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata1300">
@@ -423,12 +423,12 @@
      id="layer1"
      transform="translate(0,-87)">
     <rect
-       y="136.38799"
+       y="136.90041"
        x="0.50050169"
-       height="121.57258"
+       height="121.06015"
        width="146.95811"
        id="rect2991"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2f4f4f;stroke:#213149;stroke-width:0.51875889;stroke-opacity:1;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2f4f4f;stroke:#213149;stroke-width:0.51766443;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <rect
        y="225.84023"
        x="0.52040368"
@@ -2577,12 +2577,12 @@
        inkscape:export-ydpi="134.53"
        inkscape:export-xdpi="134.53"
        inkscape:export-filename="/home/rlafuente/Projects/GPG/infog/precolor.png"
-       y="87.573784"
-       x="0.52305359"
-       height="48.263443"
-       width="146.91301"
+       y="87.577049"
+       x="0.52632105"
+       height="49.390835"
+       width="146.90648"
        id="rect3012"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#1d3838;fill-opacity:1;stroke:#1d3838;stroke-width:0.56386274;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#1d3838;fill-opacity:1;stroke:#1d3838;stroke-width:0.57039768;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <flowRoot
        inkscape:export-ydpi="134.53"
        inkscape:export-xdpi="134.53"
